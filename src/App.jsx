@@ -288,7 +288,7 @@ const App = () => {
                     <footer className="mt-16 border-t border-slate-200 pt-8 text-center pb-8">
                         <div className="inline-block bg-white px-6 py-4 rounded-xl shadow-sm border border-slate-100">
                             <p className="text-sm font-semibold text-slate-700 mb-1">
-                                Rickard, Kim, Mieghem et al. (2023)
+                                Rickard, Kim, Mieghem et al., Prenatal Diagnosis (2023)
                             </p>
                             <p className="text-xs font-bold text-sky-600 uppercase tracking-wider">
                                 SickKids Urology
